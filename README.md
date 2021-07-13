@@ -1,1 +1,1 @@
-# tcl_scripts
+# tcl_scripts for analysis of simulations
